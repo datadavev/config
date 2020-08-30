@@ -4,7 +4,7 @@
     "last_modified": "2020-07-06T13:57:13.357+0000"
   },
   "shacl": {
-    "url": "https://raw.githubusercontent.com/datadavev/science-on-schema.org/feature_59_SHACL/validation/shapegraphs/soso_common_v1.2.1.ttl",
+    "url": "https://raw.githubusercontent.com/datadavev/science-on-schema.org/feature_59_SHACL/validation/shapegraphs/soso_common_v1.2.2.ttl",
     "last_modified": "2020-07-04T14:42:52.010+0000"
   }
 }
